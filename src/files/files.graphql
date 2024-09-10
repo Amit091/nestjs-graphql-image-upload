@@ -1,0 +1,15 @@
+scalar FileUpload
+
+type FactDetail {
+  title: String!
+  detail: String!
+}
+
+type Query {
+  fact: FactDetail
+}
+
+type Mutation {
+  uploadFile(uploadFile: FileUpload): String
+  uploadFiles(uploadFiles: [FileUpload]): [String]
+}
