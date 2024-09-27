@@ -5,9 +5,9 @@
 ## NestJS GraphQL Image Upload Example
 
 <p align="center">
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node-v18.20.4-green" alt="Node Version" /></a>
-<a href="https://pnpm.io/" target="_blank"><img src="https://img.shields.io/badge/pnpm-v9.5.0-yellow" alt="PNPM Version" /></a>
-<a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/nest-v10.4.5-red" alt="Nest Version" /></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node-v18.20.4-green?logo=node.js" alt="Node Version" /></a>
+<a href="https://pnpm.io/" target="_blank"><img src="https://img.shields.io/badge/pnpm-v9.5.0-yellow?logo=pnpm" alt="PNPM Version" /></a>
+<a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/nest-v10.4.5-red?logo=nestjs" alt="Nest Version" /></a>
 </p>
 
 ## Description
@@ -85,6 +85,9 @@ pnpm start:dev
 # unit tests
 pnpm test
 ```
+
+## References
+The implementation of this project can be found in [React GraphQL Image Upload project](https://github.com/Amit091/reactjs-graphql-image-upload.git).
 
 ## Stay in touch
 

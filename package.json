@@ -1,8 +1,18 @@
 {
   "name": "nestjs-graphql-image-upload",
-  "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "version": "1.0.0",
+  "description": "Nest project for image upload with graphql",
+  "author": {
+    "name": "Amit Dhoju",
+    "email": "amitdhoju@gmail.com",
+    "url": "https://github.com/Amit091"
+  },
+  "keywords": [
+    "nestjs",
+    "graphql",
+    "typescript",
+    "image-upload"
+  ],
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
